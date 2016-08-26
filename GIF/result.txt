@@ -1,34 +1,46 @@
-![](608\GIF\0-12.gif "" )
-{:.hascaption}
-![](608\GIF\30-70.gif "" )
-{:.hascaption}
-![](608\GIF\abianli.py "" )
-{:.hascaption}
-![](608\GIF\BCC-1st-Brillouin.gif "" )
-{:.hascaption}
-![](608\GIF\chaos-pendulum.gif "" )
-{:.hascaption}
-![](608\GIF\Circle.gif "" )
-{:.hascaption}
-![](608\GIF\FCC-1st-Brillouin.gif "" )
-{:.hascaption}
-![](608\GIF\FDTDEMW.gif "" )
-{:.hascaption}
-![](608\GIF\GHshift.gif "" )
-{:.hascaption}
-![](608\GIF\iteration.GIF "" )
-{:.hascaption}
-![](608\GIF\Lissajous.gif "" )
-{:.hascaption}
-![](608\GIF\lxb.gif "" )
-{:.hascaption}
-![](608\GIF\lxb090.gif "" )
-{:.hascaption}
-![](608\GIF\noise-induced.gif "" )
-{:.hascaption}
-![](608\GIF\positioning.gif "" )
-{:.hascaption}
-![](608\GIF\resonance-in-circle-microcavity.gif "" )
-{:.hascaption}
-![](608\GIF\simple-cubic-1st-Brillouin.gif "" )
-{:.hascaption}
+- image_title: 0-12
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/0-12.gif"
+- image_title: 30-70
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/30-70.gif"
+- image_title: BCC-1st-Brillouin
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/BCC-1st-Brillouin.gif"
+- image_title: bianlixiegan
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/bianlixiegang.py"
+- image_title: candle-simulation
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/candle-simulation.gif"
+- image_title: chaos-pendulum
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/chaos-pendulum.gif"
+- image_title: Circle
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/Circle.gif"
+- image_title: FCC-1st-Brillouin
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/FCC-1st-Brillouin.gif"
+- image_title: FDTDEMW
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/FDTDEMW.gif"
+- image_title: GHshift
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/GHshift.gif"
+- image_title: heat-diffusion-boltzmann
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/heat-diffusion-boltzmann.gif"
+- image_title: iteration
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/iteration.GIF"
+- image_title: light=bulb
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/light=bulb.gif"
+- image_title: Lissajous
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/Lissajous.gif"
+- image_title: lxb
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/lxb.gif"
+- image_title: lxb090
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/lxb090.gif"
+- image_title: noise-induced
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/noise-induced.gif"
+- image_title: positioning
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/positioning.gif"
+- image_title: resonance-in-circle-microcavity
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/resonance-in-circle-microcavity.gif"
+- image_title: result
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/result.txt"
+- image_title: simple-cubic-1st-Brillouin
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/simple-cubic-1st-Brillouin.gif"
+- image_title: solid-heat
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/solid-heat.gif"
+- image_title: three-candles
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/GIF/three-candles.gif"
