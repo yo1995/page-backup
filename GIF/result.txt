@@ -1,0 +1,34 @@
+![](608\GIF\0-12.gif "" )
+{:.hascaption}
+![](608\GIF\30-70.gif "" )
+{:.hascaption}
+![](608\GIF\abianli.py "" )
+{:.hascaption}
+![](608\GIF\BCC-1st-Brillouin.gif "" )
+{:.hascaption}
+![](608\GIF\chaos-pendulum.gif "" )
+{:.hascaption}
+![](608\GIF\Circle.gif "" )
+{:.hascaption}
+![](608\GIF\FCC-1st-Brillouin.gif "" )
+{:.hascaption}
+![](608\GIF\FDTDEMW.gif "" )
+{:.hascaption}
+![](608\GIF\GHshift.gif "" )
+{:.hascaption}
+![](608\GIF\iteration.GIF "" )
+{:.hascaption}
+![](608\GIF\Lissajous.gif "" )
+{:.hascaption}
+![](608\GIF\lxb.gif "" )
+{:.hascaption}
+![](608\GIF\lxb090.gif "" )
+{:.hascaption}
+![](608\GIF\noise-induced.gif "" )
+{:.hascaption}
+![](608\GIF\positioning.gif "" )
+{:.hascaption}
+![](608\GIF\resonance-in-circle-microcavity.gif "" )
+{:.hascaption}
+![](608\GIF\simple-cubic-1st-Brillouin.gif "" )
+{:.hascaption}
