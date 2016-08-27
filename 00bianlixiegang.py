@@ -35,12 +35,12 @@ for root, dirs, files in os.walk(path):
         else :
             if w>h:
                 div = float(w)/h
-                h = int(320/div)
-                img.resize((320, h),Image.ANTIALIAS).save(savepath)
+                h = int(480/div)
+                img.resize((480, h),Image.ANTIALIAS).save(savepath)
             else:
                 div = float(h)/w
-                w = int(320/div)
-                img.resize((w,320),Image.ANTIALIAS).save(savepath)
+                w = int(480/div)
+                img.resize((w,480),Image.ANTIALIAS).save(savepath)
             print 'writing file ' + fp  
 
 l = len(path)
