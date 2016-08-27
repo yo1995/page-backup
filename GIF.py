@@ -16,36 +16,31 @@ def GetFileList(dir, fileList):
     return fileList
 
 # path = os.getcwd()
-fname = raw_input("Please input the dir: (example: awards cannot process GIF!)\n")
+fname = raw_input("Please input the dir: (example: GIF)\n")
 path = 'C:\Program Files\Git\usr\yo1995.github.io\photos\page-backup\\' +  fname
 lcur = len(fname) + 2
 
 small_path = (path[:-1] if path[-1]=='/' else path) + '_m'
 print small_path
-imgblank = 'templ.jpg'
-thumbsize = (600,600)
 if not os.path.exists(small_path):  
     os.mkdir(small_path)
 for root, dirs, files in os.walk(path):  
     for f in files:  
         fp = os.path.join(root, f)
         img = Image.open(fp)
-        imgb = Image.open(imgblank)
-        (sizeblankw , sizeblankh)= imgb.size
+        w, h = img.size
         savepath = os.path.join(small_path, f)
         if os.path.isfile(savepath + fp[len(savepath)-1:]):
             print u'existing, not writing'
         else :
-            img.thumbnail(thumbsize,Image.ANTIALIAS)
-            w,h = img.size
-            print (w,h)
-            wm = (sizeblankw - w) / 2.0 
-            hm = (sizeblankh - h) / 2.0 
-            box2 = (int(wm) , int(hm) , int(sizeblankw - wm), int(sizeblankh - hm))
-            print box2
-            imgb.paste(img , box2)
-            imgb.save(savepath)
-            print 'writing file ' + fp  
+          if w>h:
+              div = float(w)/h
+              h = int(320/div)
+              img.resize((320, h),Image.ANTIALIAS).save(os.path.join(small_path, f))
+          else:
+              div = float(h)/w
+              w = int(320/div)
+              img.resize((w,320),Image.ANTIALIAS).save(os.path.join(small_path, f))
 
 l = len(path)
 list = GetFileList(path, [])
