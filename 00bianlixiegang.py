@@ -47,6 +47,9 @@ for root, dirs, files in os.walk(path):
             imgb.save(savepath)
             print 'writing file ' + fp  
 
+
+reload(sys)  
+sys.setdefaultencoding('utf8')
 l = len(path)
 list = GetFileList(path, [])
 with open ('result.txt','wb') as result:
@@ -56,6 +59,7 @@ with open ('result.txt','wb') as result:
       + '\r\n  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master' + e \
       +  '" \r\n  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master' + e[:lcur-1] + '_m/'+ e[lcur:] + '"'
       e = e.replace("\\", '/')
+      
       result.write(e + '\r\n')
 
 raw_input('finished ! press any key to exit')
