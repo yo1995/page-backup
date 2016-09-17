@@ -12,7 +12,7 @@ def GetFileList(dir, fileList):
             #if s == "xxx":
                 #continue
             newDir=os.path.join(dir,s)
-            GetFileList(newDir, fileList)  
+            GetFileList(newDir, fileList)  # iterate to get the final file
     return fileList
 
 # path = os.getcwd()
@@ -32,7 +32,13 @@ for root, dirs, files in os.walk(path):
         img = Image.open(fp)
         imgb = Image.open(imgblank)
         (sizeblankw , sizeblankh)= imgb.size
-        savepath = os.path.join(small_path, f)
+        savepath = os.path.join(small_path, fp[len(path)+1:])
+        savecheck = os.path.join(small_path, fp[len(path)+1:-len(f)])
+        # print 'sp' + savepath
+        # print 'fp' + fp
+        # print 'f' + f
+        if not os.path.exists(savecheck):  
+            os.mkdir(savecheck)
         if os.path.isfile(savepath + fp[len(savepath)-1:]):
             print u'existing, not writing'
         else :
@@ -45,21 +51,19 @@ for root, dirs, files in os.walk(path):
             print box2
             imgb.paste(img , box2)
             imgb.save(savepath)
-            print 'writing file ' + fp  
-
+            print 'writing file ' + fp
 
 reload(sys)  
 sys.setdefaultencoding('utf8')
 l = len(path)
 list = GetFileList(path, [])
 with open ('result.txt','wb') as result:
-    for e in list:
-      e = e[l-lcur+1:]
-      e =  '- image_title: ' + e[lcur:-4] \
-      + '\r\n  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master' + e \
-      +  '" \r\n  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master' + e[:lcur-1] + '_m/'+ e[lcur:] + '"'
-      e = e.replace("\\", '/')
-      
-      result.write(e + '\r\n')
+    for e in list: # record the main path towards file
+        e2 = e[l-lcur+1:] # l is the length of PATH while lcur is the length of Current Main Path
+        e =  '- image_title: ' +  os.path.splitext(os.path.basename(e))[0] \
+        + '\r\n  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master' + e2 \
+        +  '" \r\n  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master' + e2[:lcur-1] + '_m/'+ e2[lcur:] + '"'
+        e = e.replace("\\", '/')
+        result.write(e + '\r\n')
 
 raw_input('finished ! press any key to exit')
