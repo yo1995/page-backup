@@ -1,138 +1,51 @@
-- image_title: labview_strange_attractor
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/chaos/labview_strange_attractor.gif" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/chaos/labview_strange_attractor.gif"
-- image_title: logi
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/chaos/logi.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/chaos/logi.png"
-- image_title: regime
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/chaos/regime.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/chaos/regime.png"
-- image_title: rossler
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/chaos/rossler.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/chaos/rossler.png"
-- image_title: rossler2
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/chaos/rossler2.PNG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/chaos/rossler2.PNG"
-- image_title: S3.3.4
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/chaos/S3.3.4.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/chaos/S3.3.4.png"
-- image_title: S3.3.5
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/chaos/S3.3.5.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/chaos/S3.3.5.png"
-- image_title: S3.6.1
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/chaos/S3.6.1.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/chaos/S3.6.1.png"
-- image_title: sine
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/chaos/sine.PNG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/chaos/sine.PNG"
-- image_title: 3dplot_mfield
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/EMW/3dplot_mfield.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/EMW/3dplot_mfield.png"
-- image_title: fiber
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/EMW/fiber.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/EMW/fiber.png"
-- image_title: GH-shift
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/EMW/GH-shift.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/EMW/GH-shift.png"
-- image_title: Mach-Zahnder
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/EMW/Mach-Zahnder.gif" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/EMW/Mach-Zahnder.gif"
-- image_title: ring_efield
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/EMW/ring_efield.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/EMW/ring_efield.png"
-- image_title: ring_efield_2
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/EMW/ring_efield_2.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/EMW/ring_efield_2.png"
-- image_title: waveguide
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/EMW/waveguide.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/EMW/waveguide.jpg"
-- image_title: cannon shell
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/motion/cannon shell.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/motion/cannon shell.png"
-- image_title: golf
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/motion/golf.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/motion/golf.png"
-- image_title: HPM-spectrum
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/motion/HPM-spectrum.PNG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/motion/HPM-spectrum.PNG"
-- image_title: knuckle ball
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/motion/knuckle ball.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/motion/knuckle ball.png"
-- image_title: lis
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/motion/lis.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/motion/lis.png"
-- image_title: random
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/motion/random.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/motion/random.png"
-- image_title: bcc-energy-band
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/others/bcc-energy-band.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/others/bcc-energy-band.png"
-- image_title: orbiting the sun
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/others/orbiting the sun.gif" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/others/orbiting the sun.gif"
-- image_title: spiral wave
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/others/spiral wave.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/others/spiral wave.png"
-- image_title: spring pendulum
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/others/spring pendulum.gif" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/others/spring pendulum.gif"
-- image_title: photoelectric effect
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/photoelectric effect.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/photoelectric effect.png"
-- image_title: polarization
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/polarization.PNG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/polarization.PNG"
-- image_title: X-ray diffraction
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/figures/X-ray diffraction.png" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/figures/X-ray diffraction.png"
-- image_title: culture medium
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/highschool/culture medium.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/highschool/culture medium.jpg"
-- image_title: curve of piezo plate
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/highschool/curve of piezo plate.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/highschool/curve of piezo plate.jpg"
-- image_title: piezoelectric
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/highschool/piezoelectric.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/highschool/piezoelectric.JPG"
-- image_title: setting up
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/highschool/setting up.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/highschool/setting up.JPG"
-- image_title: water quality
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/highschool/water quality.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/highschool/water quality.jpg"
-- image_title: zero alignment
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/highschool/zero alignment.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/highschool/zero alignment.JPG"
-- image_title: fiber welding
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/photos/fiber welding.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/photos/fiber welding.JPG"
-- image_title: firstchaos
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/photos/firstchaos.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/photos/firstchaos.JPG"
-- image_title: frank-hertz experiment
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/photos/frank-hertz experiment.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/photos/frank-hertz experiment.JPG"
-- image_title: frank-hertz experiment2
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/photos/frank-hertz experiment2.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/photos/frank-hertz experiment2.JPG"
-- image_title: helium-neon laser
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/photos/helium-neon laser.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/photos/helium-neon laser.JPG"
-- image_title: labview chuas circuit
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/photos/labview chuas circuit.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/photos/labview chuas circuit.JPG"
-- image_title: NMR
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/photos/NMR.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/photos/NMR.jpg"
-- image_title: period_3
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/photos/period_3.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/photos/period_3.JPG"
-- image_title: sodium light
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/photos/sodium light.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/photos/sodium light.JPG"
-- image_title: spectrometer-LPM-Hg
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/photos/spectrometer-LPM-Hg.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/photos/spectrometer-LPM-Hg.JPG"
-- image_title: Zeeman effect
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total/photos/Zeeman effect.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/exp_total_m/photos/Zeeman effect.jpg"
+- image_title: 20101
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20101.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20101.jpg"
+- image_title: 20102
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20102.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20102.jpg"
+- image_title: 20103
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20103.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20103.jpg"
+- image_title: 20104
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20104.JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20104.JPG"
+- image_title: 20105
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20105.JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20105.JPG"
+- image_title: 20121
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20121.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20121.jpg"
+- image_title: 20151
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20151.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20151.jpg"
+- image_title: 20152
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20152.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20152.jpg"
+- image_title: 20153
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20153.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20153.jpg"
+- image_title: 20154
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20154.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20154.jpg"
+- image_title: 20155
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20155.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20155.jpg"
+- image_title: 20156
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20156.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20156.jpg"
+- image_title: 20161
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20161.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20161.jpg"
+- image_title: 20162
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20162.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20162.jpg"
+- image_title: 20163
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20163.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20163.jpg"
+- image_title: 20164
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20164.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20164.jpg"
+- image_title: 20165
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20165.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20165.jpg"
