@@ -1,51 +1,45 @@
-- image_title: 20101
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20101.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20101.jpg"
-- image_title: 20102
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20102.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20102.jpg"
-- image_title: 20103
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20103.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20103.jpg"
-- image_title: 20104
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20104.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20104.JPG"
-- image_title: 20105
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20105.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20105.JPG"
-- image_title: 20121
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20121.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20121.jpg"
-- image_title: 20151
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20151.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20151.jpg"
-- image_title: 20152
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20152.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20152.jpg"
-- image_title: 20153
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20153.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20153.jpg"
-- image_title: 20154
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20154.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20154.jpg"
-- image_title: 20155
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20155.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20155.jpg"
-- image_title: 20156
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20156.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20156.jpg"
-- image_title: 20161
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20161.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20161.jpg"
-- image_title: 20162
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20162.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20162.jpg"
-- image_title: 20163
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20163.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20163.jpg"
-- image_title: 20164
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20164.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20164.jpg"
-- image_title: 20165
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping/20165.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/camping_m/20165.jpg"
+- image_title: 201411 (1)
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (1).JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (1).JPG"
+- image_title: 201411 (10)
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (10).JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (10).JPG"
+- image_title: 201411 (2)
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (2).jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (2).jpg"
+- image_title: 201411 (3)
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (3).JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (3).JPG"
+- image_title: 201411 (4)
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (4).JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (4).JPG"
+- image_title: 201411 (5)
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (5).JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (5).JPG"
+- image_title: 201411 (6)
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (6).JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (6).JPG"
+- image_title: 201411 (7)
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (7).JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (7).JPG"
+- image_title: 201411 (8)
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (8).jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (8).jpg"
+- image_title: 201411 (9)
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (9).jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (9).jpg"
+- image_title: balls
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/balls.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/balls.jpg"
+- image_title: IMG_1395
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/IMG_1395.JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/IMG_1395.JPG"
+- image_title: IMG_1399
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/IMG_1399.JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/IMG_1399.JPG"
+- image_title: IMG_1405
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/IMG_1405.JPG" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/IMG_1405.JPG"
+- image_title: IMG_1411
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/IMG_1411.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/IMG_1411.jpg"
