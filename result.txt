@@ -1,45 +1,60 @@
-- image_title: 201411 (1)
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (1).JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (1).JPG"
-- image_title: 201411 (10)
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (10).JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (10).JPG"
-- image_title: 201411 (2)
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (2).jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (2).jpg"
-- image_title: 201411 (3)
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (3).JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (3).JPG"
-- image_title: 201411 (4)
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (4).JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (4).JPG"
-- image_title: 201411 (5)
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (5).JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (5).JPG"
-- image_title: 201411 (6)
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (6).JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (6).JPG"
-- image_title: 201411 (7)
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (7).JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (7).JPG"
-- image_title: 201411 (8)
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (8).jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (8).jpg"
-- image_title: 201411 (9)
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/201411 (9).jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/201411 (9).jpg"
-- image_title: balls
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/balls.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/balls.jpg"
-- image_title: IMG_1395
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/IMG_1395.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/IMG_1395.JPG"
-- image_title: IMG_1399
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/IMG_1399.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/IMG_1399.JPG"
-- image_title: IMG_1405
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/IMG_1405.JPG" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/IMG_1405.JPG"
-- image_title: IMG_1411
-  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities/IMG_1411.jpg" 
-  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/football celebrities_m/IMG_1411.jpg"
+- image_title: 60th anni volunteer
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/60th anni volunteer.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/60th anni volunteer.jpg"
+- image_title: APSA Certificate
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/APSA Certificate.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/APSA Certificate.jpg"
+- image_title: CET-4 and CFT(France)
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/CET-4 and CFT(France).jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/CET-4 and CFT(France).jpg"
+- image_title: CET-6
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/CET-6.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/CET-6.jpg"
+- image_title: English dubbing contest
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/English dubbing contest.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/English dubbing contest.jpg"
+- image_title: English playlet contest - best narration
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/English playlet contest - best narration.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/English playlet contest - best narration.jpg"
+- image_title: English playlet contest
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/English playlet contest.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/English playlet contest.jpg"
+- image_title: HuangKun Scholarship-back
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/HuangKun Scholarship-back.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/HuangKun Scholarship-back.jpg"
+- image_title: HuangKun Scholarship
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/HuangKun Scholarship.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/HuangKun Scholarship.jpg"
+- image_title: Literature Society Cup
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/Literature Society Cup.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/Literature Society Cup.jpg"
+- image_title: Military training 
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/Military training .jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/Military training .jpg"
+- image_title: Miscellaneous
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/Miscellaneous.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/Miscellaneous.jpg"
+- image_title: National IoT contest
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/National IoT contest.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/National IoT contest.jpg"
+- image_title: National Undergraduate Electronic Design Contest - Second Prize - 电子设计竞赛证书
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/National Undergraduate Electronic Design Contest - Second Prize - 电子设计竞赛证书.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/National Undergraduate Electronic Design Contest - Second Prize - 电子设计竞赛证书.jpg"
+- image_title: School Awards
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Awards.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Awards.jpg"
+- image_title: School Literature Society Essay Competition - First Prize
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Literature Society Essay Competition - First Prize.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Literature Society Essay Competition - First Prize.jpg"
+- image_title: School Scholarship - Third Class -2014
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Scholarship - Third Class -2014.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Scholarship - Third Class -2014.jpg"
+- image_title: School Scholarship - Third Class -2015
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Scholarship - Third Class -2015.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Scholarship - Third Class -2015.jpg"
+- image_title: School Video Editing Contest - Honorable Mention
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Video Editing Contest - Honorable Mention.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Video Editing Contest - Honorable Mention.jpg"
+- image_title: TEF score
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/TEF score.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/TEF score.jpg"
