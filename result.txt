@@ -22,6 +22,12 @@
 - image_title: experimentbj
   image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/experimentbj.jpg" 
   thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/experimentbj.jpg"
+- image_title: experimentbj1
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/experimentbj1.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/experimentbj1.jpg"
+- image_title: experimentbj2
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/experimentbj2.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/experimentbj2.jpg"
 - image_title: HuangKun Scholarship-back
   image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/HuangKun Scholarship-back.jpg" 
   thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/HuangKun Scholarship-back.jpg"
@@ -43,3 +49,33 @@
 - image_title: National IoT contest
   image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/National IoT contest.jpg" 
   thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/National IoT contest.jpg"
+- image_title: National Undergraduate Electronic Design Contest - Second Prize - 电子设计竞赛证书
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/National Undergraduate Electronic Design Contest - Second Prize - 电子设计竞赛证书.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/National Undergraduate Electronic Design Contest - Second Prize - 电子设计竞赛证书.jpg"
+- image_title: School Awards
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Awards.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Awards.jpg"
+- image_title: School Literature Society Essay Competition - First Prize
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Literature Society Essay Competition - First Prize.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Literature Society Essay Competition - First Prize.jpg"
+- image_title: School Scholarship - outstanding cadre
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Scholarship - outstanding cadre.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Scholarship - outstanding cadre.jpg"
+- image_title: School Scholarship - Third Class -2014
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Scholarship - Third Class -2014.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Scholarship - Third Class -2014.jpg"
+- image_title: School Scholarship - Third Class -2015
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Scholarship - Third Class -2015.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Scholarship - Third Class -2015.jpg"
+- image_title: School Scholarship - Third Class -2016
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Scholarship - Third Class -2016.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Scholarship - Third Class -2016.jpg"
+- image_title: School Video Editing Contest - Honorable Mention
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/School Video Editing Contest - Honorable Mention.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/School Video Editing Contest - Honorable Mention.jpg"
+- image_title: TCF B2
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/TCF B2.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/TCF B2.jpg"
+- image_title: TEF score
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/TEF score.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/TEF score.jpg"
