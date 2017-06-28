@@ -10,6 +10,9 @@
 - image_title: CET-6
   image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/CET-6.jpg" 
   thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/CET-6.jpg"
+- image_title: dissertation
+  image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/dissertation.jpg" 
+  thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/dissertation.jpg"
 - image_title: English dubbing contest
   image_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards/English dubbing contest.jpg" 
   thumb_path: "https://raw.githubusercontent.com/yo1995/page-backup/master/awards_m/English dubbing contest.jpg"
